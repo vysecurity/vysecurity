@@ -14,7 +14,7 @@ GitHub Sponsor Link at [https://github.com/sponsors/vysecurity](https://github.c
 
 <img align="right" width=400 alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-I'm **Vincent Yiu**, a **Red Team Director** living in **Hong Kong, CN**.
+I'm **Vincent Yiu**, a **Cyber Security Director** living in **Hong Kong*.
 
 I'm known for Red Teaming, and more specifically the Red Team Tips series which I started. The Red Team Tips series is intended to bring new ideas and inspire the next generation of Red Teamers who may not have frequent access to full-scale Red Team projects.
 
