@@ -1,136 +1,42 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Vincent%20Yiu&fontSize=80&animation=fadeIn&fontColor=ffffff" width="1000" />
-</div>
+# Hey 👋, I'm vysecurity!
 
-<div align="center">
-  <a href="https://github.com/vysecurity"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/vincent-yiu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/vysecurity"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.syonsecurity.com"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://github.com/sponsors/vysecurity"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor" /></a>
-</div>
+<a href="https://www.linkedin.com/in/vincent-yiu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/vysecurity" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://github.com/vysecurity/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 
-<br />
+Check my blog at [https://vincentyiu.com](https://vincentyiu.com)!
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vysecurity&color=0E75B6&style=flat-square" alt="Profile Views" />
-</div>
+Check my Red Team Tips at [https://vysecurity.rocks](https://vysecurity.rocks)!
 
----
-
-<h1 align="center">Hello, World! 👋 I'm Vincent Yiu</h1>
-
-<h3 align="center">🛡️ Offensive Security Professional | Red Team Director | Cyber Security Expert</h3>
-
-<br />
-
-<img align="right" width="350" alt="Cyber Security Animation" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+GitHub Sponsor Link at [https://github.com/sponsors/vysecurity](https://github.com/sponsors/vysecurity)
 
 ## About Me
 
-I am a passionate **Cyber Security Director** with over a decade of experience in offensive security. I lead elite teams of security experts to scrutinize global organizations' security postures, helping them prepare against sophisticated adversaries.
+<img align="right" width=400 alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-✨ **What I Do**
-- 🔓 **Red Teaming & Adversary Simulation**
-- 🎯 **Security Strategy & Leadership**
-- 📚 **Knowledge Sharing & Mentorship**
-- 💡 **Innovative Security Research**
+I'm **Vincent Yiu**, a **Cyber Security Director**. I lead a team of elite offensive security experts to scrutinise our customers' security posture to enable them to better prepare against their adversaries.
 
-🌟 **Creator of the Red Team Tips Series**
-I started the Red Team Tips series to inspire and educate the next generation of security professionals. The series is now hosted at **[SYON Security](https://www.syonsecurity.com)**.
+I'm known for Red Teaming, and more specifically the Red Team Tips series which I started. The Red Team Tips series is intended to bring new ideas and inspire the next generation of Red Teamers who may not have frequent access to full-scale Red Team projects.
 
----
+Career Milestones:
+* Founder / Director, SYON Security
+* Former Red Team Director, Risk Advisory, Cyber, Deloitte
+* Former FusionX, Accenture Security
+* Former ActiveBreach, MDSec
+* Former MWR InfoSecurity (F-Secure)
+* Master's Degree from University of Warwick
+* National Cyber Security Challenge (U.K.) Finalist 2015
 
-## 🏆 Career Highlights
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://www.syonsecurity.com">
-          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opsgenie.svg" width="60" alt="SYON Security" />
-          <br />
-          <strong>SYON Security</strong>
-          <br />
-          Founder & Director
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://www.deloitte.com">
-          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/deloitte.svg" width="60" alt="Deloitte" />
-          <br />
-          <strong>Deloitte</strong>
-          <br />
-          Red Team Director
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://www.accenture.com">
-          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/accenture.svg" width="60" alt="Accenture" />
-          <br />
-          <strong>Accenture</strong>
-          <br />
-          FusionX Team
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+## Languages and Tools
 
----
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-## 🛠️ Tech Stack & Tools
+## Stats
 
-<div align="center">
-  <h3>Languages</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
-</div>
-
-<br />
-
-<div align="center">
-  <h3>Security & Infrastructure</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vysecurity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vysecurity&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vysecurity&theme=tokyonight&hide_border=true" alt="Streak" height="180px" />
-</div>
-
----
-
-## 🎯 Let's Connect
-
-<div align="center">
-  <h3>Visit my work at <a href="https://www.syonsecurity.com">SYON Security</a></h3>
-  <p>Building the future of offensive security, one engagement at a time.</p>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vysecurity&theme=tokyonight&hide_border=true" width="1000" />
-</div>
-
-<br />
-
-<div align="center">
-  <p>💙 Built with passion for cybersecurity</p>
-  <p>⚡ Always learning, always evolving</p>
-</div>
+![Vysecurity's github stats](https://github-readme-stats.vercel.app/api?username=vysecurity&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vysecurity&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
