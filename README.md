@@ -47,15 +47,6 @@ I'm **Vincent Yiu**, an elite **Offensive Security Professional** and Director. 
 
 ---
 
-### 📊 Github Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vysecurity&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false" alt="Vysecurity Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vysecurity&hide=html&theme=tokyonight&layout=compact" alt="Top Languages" height="180px" />
-</div>
-
----
-
 <div align="center">
   <a href="https://www.syonsecurity.com"><b>Visit SYON Security</b></a>
 </div>
