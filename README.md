@@ -120,11 +120,6 @@ I started the Red Team Tips series to inspire and educate the next generation of
   <p>Building the future of offensive security, one engagement at a time.</p>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/main/github-contribution-grid-snake.svg" width="1000" />
-</div>
-
-<br />
 
 <div align="center">
   <p>💙 Built with passion for cybersecurity</p>
