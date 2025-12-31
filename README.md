@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Vincent%20Yiu&fontSize=80&animation=fadeIn&fontColor=ffffff" width="1000" />
+</div>
+
+<div align="center">
   <a href="https://github.com/vysecurity"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/vincent-yiu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/vysecurity"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
@@ -9,7 +13,7 @@
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vysecurity&color=FF5722&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vysecurity&color=0E75B6&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
@@ -20,7 +24,7 @@
 
 <br />
 
-<img align="right" width="350" alt="Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" width="350" alt="Cyber Security Animation" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ## About Me
 
@@ -33,7 +37,7 @@ I am a passionate **Cyber Security Director** with over a decade of experience i
 - 💡 **Innovative Security Research**
 
 🌟 **Creator of the Red Team Tips Series**
-I started the Red Team Tips series to inspire and educate the next generation of security professionals who may not have frequent access to full-scale Red Team projects.
+I started the Red Team Tips series to inspire and educate the next generation of security professionals. The series is now hosted at **[SYON Security](https://www.syonsecurity.com)**.
 
 ---
 
@@ -44,6 +48,7 @@ I started the Red Team Tips series to inspire and educate the next generation of
     <tr>
       <td align="center" width="33%">
         <a href="https://www.syonsecurity.com">
+          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opsgenie.svg" width="60" alt="SYON Security" />
           <br />
           <strong>SYON Security</strong>
           <br />
@@ -52,7 +57,7 @@ I started the Red Team Tips series to inspire and educate the next generation of
       </td>
       <td align="center" width="33%">
         <a href="https://www.deloitte.com">
-          <img src="https://img.icons8.com/color/64/000000/office.png" width="60" alt="Deloitte" />
+          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/deloitte.svg" width="60" alt="Deloitte" />
           <br />
           <strong>Deloitte</strong>
           <br />
@@ -61,7 +66,7 @@ I started the Red Team Tips series to inspire and educate the next generation of
       </td>
       <td align="center" width="33%">
         <a href="https://www.accenture.com">
-          <img src="https://img.icons8.com/color/64/000000/workflow.png" width="60" alt="Accenture" />
+          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/accenture.svg" width="60" alt="Accenture" />
           <br />
           <strong>Accenture</strong>
           <br />
@@ -88,7 +93,7 @@ I started the Red Team Tips series to inspire and educate the next generation of
 <br />
 
 <div align="center">
-  <h3>Security Tools</h3>
+  <h3>Security & Infrastructure</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" />
@@ -119,6 +124,11 @@ I started the Red Team Tips series to inspire and educate the next generation of
   <p>Building the future of offensive security, one engagement at a time.</p>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vysecurity&theme=tokyonight&hide_border=true" width="1000" />
+</div>
+
+<br />
 
 <div align="center">
   <p>💙 Built with passion for cybersecurity</p>
