@@ -44,7 +44,6 @@ I started the Red Team Tips series to inspire and educate the next generation of
     <tr>
       <td align="center" width="33%">
         <a href="https://www.syonsecurity.com">
-          <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-security-cyber-security-flatart-icons-flat-flatarticons-3.png" width="60" alt="SYON Security" />
           <br />
           <strong>SYON Security</strong>
           <br />
