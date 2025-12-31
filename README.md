@@ -105,14 +105,14 @@ I started the Red Team Tips series to inspire and educate the next generation of
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vysecurity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vysecurity&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vysecurity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vysecurity&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vysecurity&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vysecurity&theme=tokyonight&hide_border=true" alt="Streak" height="180px" />
 </div>
 
 ---
