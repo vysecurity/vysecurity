@@ -46,27 +46,27 @@ I started the Red Team Tips series to inspire and educate the next generation of
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="33%">
         <a href="https://www.syonsecurity.com">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="80" alt="SYON Security" />
+          <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-security-cyber-security-flatart-icons-flat-flatarticons-3.png" width="60" alt="SYON Security" />
           <br />
           <strong>SYON Security</strong>
           <br />
           Founder & Director
         </a>
       </td>
-      <td align="center">
-        <a href="https://deloitte.com">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/deloitte/deloitte-original.svg" width="80" alt="Deloitte" />
+      <td align="center" width="33%">
+        <a href="https://www.deloitte.com">
+          <img src="https://img.icons8.com/color/64/000000/office.png" width="60" alt="Deloitte" />
           <br />
           <strong>Deloitte</strong>
           <br />
           Red Team Director
         </a>
       </td>
-      <td align="center">
-        <a href="https://accenture.com">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/accenture/accenture-original.svg" width="80" alt="Accenture" />
+      <td align="center" width="33%">
+        <a href="https://www.accenture.com">
+          <img src="https://img.icons8.com/color/64/000000/workflow.png" width="60" alt="Accenture" />
           <br />
           <strong>Accenture</strong>
           <br />
