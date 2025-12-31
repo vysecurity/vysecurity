@@ -18,7 +18,7 @@
 
 ---
 
-<h1 align="center">Hello, World! � I'm Vincent Yiu</h1>
+<h1 align="center">Hello, World! 👋 I'm Vincent Yiu</h1>
 
 <h3 align="center">🛡️ Offensive Security Professional | Red Team Director | Cyber Security Expert</h3>
 
